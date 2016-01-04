@@ -1,6 +1,9 @@
 # Druid-on-rails
 Here you will find links, code and hacks !
 
+![alt text] (http://img09.deviantart.net/bc36/i/2011/272/0/6/druid_by_edli-d2zocxe.jpg)
+
+
 ---
 
 ## Interviews, prepare for rails job opportunities : 
