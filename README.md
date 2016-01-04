@@ -3,7 +3,8 @@
 ![alt text] (http://img01.deviantart.net/1968/i/2013/209/b/5/druid_by_thiago_almeida-d6fmjuu.jpg)
 
 
-Here you will find links, code and hacks !
+
+### Here you will find links, code and hacks !
 ---
 
 ## Interviews, prepare for rails job opportunities : 
