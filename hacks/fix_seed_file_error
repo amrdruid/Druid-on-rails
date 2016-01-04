@@ -1,0 +1,5 @@
+Seeding is not just forcing data inside a database. 
+Seeding makes ActiveRecord evaluate completely the models involved. 
+Then, your error may be anywhere inside your models and then checking your methods is necessary. 
+
+Whenever you have a seeding error, check the models involved, not just the values you are seeding
