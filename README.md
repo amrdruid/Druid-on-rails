@@ -1,6 +1,6 @@
 # Druid-on-rails
 
-![alt text] (http://img01.deviantart.net/1968/i/2013/209/b/5/druid_by_thiago_almeida-d6fmjuu.jpg)
+![alt text] (https://cdn1.bloc.io/assets/ruby_warrior/spartacus-cfdb6102cd0a1dc6a635eaecc2403aba.png)
 
 
 
