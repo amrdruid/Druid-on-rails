@@ -35,18 +35,19 @@ https://www.youtube.com/user/Confreaks
 
 ## Articles : 
 
-### Slack on rails 
+###  Slack on rails 
 https://viget.com/extend/slack-on-rails
 
-### Ruby Time & Date Classes : 
+###  Ruby Time & Date Classes : 
 http://www.blackbytes.info/2015/12/ruby-time/
 
 ###  How Bundler Works: A History of Ruby Dependency Management 
 http://www.cloudcity.io/blog/2015/07/10/how-bundler-works-a-history-of-ruby-dependency-management/
 
-### Deployement on Digital Ocean :
+###  Deployement on Digital Ocean :
 
 http://www.kimpus.com/en/blog/enrique-vargas-acha/how-to-make-the-quick-installation-of-a-ruby-on-rails-application-in-digitalocean
+
 ---
 
 ## Blogs : 
