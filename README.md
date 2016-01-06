@@ -35,14 +35,25 @@ https://www.youtube.com/user/Confreaks
 
 ## Articles : 
 
-###  Slack on rails 
+###  Slack on rails :
+
 https://viget.com/extend/slack-on-rails
 
 ###  Ruby Time & Date Classes : 
+
 http://www.blackbytes.info/2015/12/ruby-time/
 
-###  How Bundler Works: A History of Ruby Dependency Management 
+###  How Bundler Works: A History of Ruby Dependency Management :
+
 http://www.cloudcity.io/blog/2015/07/10/how-bundler-works-a-history-of-ruby-dependency-management/
+
+### Know more about ruby gems : 
+
+http://technopadia.com/ruby-gems/
+
+### Use scope with associations : 
+
+http://ducktypelabs.com/using-scope-with-associations/
 
 ###  Deployement on Digital Ocean :
 
