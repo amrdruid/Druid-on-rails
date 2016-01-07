@@ -64,3 +64,11 @@ http://www.kimpus.com/en/blog/enrique-vargas-acha/how-to-make-the-quick-installa
 ## Blogs : 
 
 http://rubyofftherails.blogspot.com.br/
+
+---
+
+## Related Topics : 
+
+### How to write the a good commit message : 
+
+http://chris.beams.io/posts/git-commit/
