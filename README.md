@@ -72,3 +72,18 @@ http://rubyofftherails.blogspot.com.br/
 ### How to write the a good commit message : 
 
 http://chris.beams.io/posts/git-commit/
+
+---
+
+# Gems : 
+
+### SpreadSheets gems : 
+
+## roo : 
+https://github.com/roo-rb/roo
+
+## spreadsheet :
+https://github.com/zdavatz/spreadsheet
+
+## rubyXL :
+https://github.com/weshatheleopard/rubyXL
