@@ -65,6 +65,7 @@ http://www.kimpus.com/en/blog/enrique-vargas-acha/how-to-make-the-quick-installa
 
 http://rubyofftherails.blogspot.com.br/
 
+http://blog.honeybadger.io/ruby/
 ---
 
 ## Related Topics : 
