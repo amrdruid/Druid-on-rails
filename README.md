@@ -59,6 +59,11 @@ http://ducktypelabs.com/using-scope-with-associations/
 
 http://www.kimpus.com/en/blog/enrique-vargas-acha/how-to-make-the-quick-installation-of-a-ruby-on-rails-application-in-digitalocean
 
+### Deployement testing cycle : 
+
+https://workshop.masterofcode.com/three-phases-deployment-testing-cycle/
+
+
 ---
 
 ## Blogs : 
@@ -91,3 +96,7 @@ https://github.com/zdavatz/spreadsheet
 
 ## rubyXL :
 https://github.com/weshatheleopard/rubyXL
+
+
+### Serailly : 
+https://github.com/mikemarsian/serially
