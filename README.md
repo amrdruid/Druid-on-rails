@@ -75,6 +75,7 @@ http://rubyofftherails.blogspot.com.br/
 
 http://blog.honeybadger.io/ruby/
 
+https://robots.thoughtbot.com/tags/rails
 ---
 
 ## Related Topics : 
