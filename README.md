@@ -67,6 +67,11 @@ https://workshop.masterofcode.com/three-phases-deployment-testing-cycle/
 
 https://robots.thoughtbot.com/how-we-test-rails-applications
 
+
+### Best ROR refactoring talks : 
+
+https://infinum.co/the-capsized-eight/articles/best-ruby-on-rails-refactoring-talks
+
 ---
 
 ## Blogs : 
@@ -85,9 +90,13 @@ https://robots.thoughtbot.com/tags/rails
 
 http://chris.beams.io/posts/git-commit/
 
+
 ---
+
 ---
+
 ---
+
 
 # Gems : 
 
