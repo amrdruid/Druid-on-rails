@@ -63,6 +63,9 @@ http://www.kimpus.com/en/blog/enrique-vargas-acha/how-to-make-the-quick-installa
 
 https://workshop.masterofcode.com/three-phases-deployment-testing-cycle/
 
+### How to test rails application : 
+
+https://robots.thoughtbot.com/how-we-test-rails-applications
 
 ---
 
