@@ -84,6 +84,8 @@ https://robots.thoughtbot.com/tags/rails
 
 https://signalvnoise.com/posts/
 
+https://www.jetbrains.com/ruby/help/rails.html
+
 ---
 
 ## Related Topics : 
