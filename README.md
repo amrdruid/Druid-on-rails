@@ -82,6 +82,8 @@ http://blog.honeybadger.io/ruby/
 
 https://robots.thoughtbot.com/tags/rails
 
+https://signalvnoise.com/posts/
+
 ---
 
 ## Related Topics : 
