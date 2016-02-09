@@ -86,6 +86,8 @@ https://signalvnoise.com/posts/
 
 https://www.jetbrains.com/ruby/help/rails.html
 
+https://railsforum.com/
+
 ---
 
 ## Related Topics : 
