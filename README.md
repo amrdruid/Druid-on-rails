@@ -72,6 +72,10 @@ https://robots.thoughtbot.com/how-we-test-rails-applications
 
 https://infinum.co/the-capsized-eight/articles/best-ruby-on-rails-refactoring-talks
 
+### Serializer
+
+http://www.sitepoint.com/active-model-serializers-rails-and-json-oh-my/
+
 ---
 
 ## Blogs : 
