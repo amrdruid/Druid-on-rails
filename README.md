@@ -103,6 +103,13 @@ http://chris.beams.io/posts/git-commit/
 
 ---
 
+## Gists : 
+
+### Testing models : 
+
+https://gist.github.com/kyletcarlson/6234923
+
+
 ---
 
 ---
