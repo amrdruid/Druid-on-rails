@@ -113,6 +113,10 @@ https://gist.github.com/kyletcarlson/6234923
 
 ---
 
+# Talks : 
+
+https://www.youtube.com/watch?v=9LfmrkyP81M
+
 ---
 
 
