@@ -80,6 +80,8 @@ http://www.sitepoint.com/active-model-serializers-rails-and-json-oh-my/
 
 ## Blogs : 
 
+http://www.schneems.com/
+
 http://rubyofftherails.blogspot.com.br/
 
 http://blog.honeybadger.io/ruby/
