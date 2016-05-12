@@ -35,13 +35,14 @@ https://www.youtube.com/user/Confreaks
 
 ## Articles : 
 
+
+### What we learned from Google: code reviews aren’t just for catching bugs :
+
+http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/
+
 ###  Slack on rails :
 
 https://viget.com/extend/slack-on-rails
-
-###  Ruby Time & Date Classes : 
-
-http://www.blackbytes.info/2015/12/ruby-time/
 
 ###  How Bundler Works: A History of Ruby Dependency Management :
 
@@ -55,9 +56,6 @@ http://technopadia.com/ruby-gems/
 
 http://ducktypelabs.com/using-scope-with-associations/
 
-###  Deployement on Digital Ocean :
-
-http://www.kimpus.com/en/blog/enrique-vargas-acha/how-to-make-the-quick-installation-of-a-ruby-on-rails-application-in-digitalocean
 
 ### Deployement testing cycle : 
 
@@ -122,12 +120,42 @@ https://gist.github.com/kyletcarlson/6234923
 
 # Talks : 
 
+## DHH railsconf 2014 
+
 https://www.youtube.com/watch?v=9LfmrkyP81M
 
 ---
 
 
 # Gems : 
+
+### Search gems: 
+
+https://github.com/activerecord-hackery/ransack
+
+https://github.com/elastic/elasticsearch-rails
+
+
+### Logging gems:
+
+https://github.com/ankane/ahoy
+
+
+### Debugging gems:
+
+https://github.com/deivid-rodriguez/byebug
+
+https://github.com/rweng/pry-rails
+
+https://github.com/michaeldv/awesome_print
+
+
+### Production gems:
+
+https://github.com/capistrano/capistrano
+
+https://github.com/kickstarter/rack-attack
+
 
 ### SpreadSheets gems : 
 
@@ -139,7 +167,6 @@ https://github.com/zdavatz/spreadsheet
 
 ## rubyXL :
 https://github.com/weshatheleopard/rubyXL
-
 
 ### Serailly : 
 https://github.com/mikemarsian/serially
