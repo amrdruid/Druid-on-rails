@@ -7,7 +7,7 @@
 ### Here you will find links, code and hacks !
 ---
 
-## Interviews, prepare for rails job opportunities : 
+## Interviews, prepare for Rails job opportunities : 
 
 https://www.reskill.me/skill-center/tests/skill/ruby-on-rails
 
