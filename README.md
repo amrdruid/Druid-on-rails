@@ -13,6 +13,8 @@ https://www.reskill.me/skill-center/tests/skill/ruby-on-rails
 
 http://blog.reskill.me/ruby-on-rails-interview-questions-that-will-land-you-the-job/
 
+https://www.testdome.com/Programming-Tests/Ruby/52
+
 ---
 
 ## How to begin ROR : 
