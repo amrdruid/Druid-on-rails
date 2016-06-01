@@ -21,6 +21,8 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 http://blog.reskill.me/the-complete-guide-for-learning-ruby-ruby-on-rails-from-scratch/
 
+https://codefights.com
+
 ---
 
 ## Best ROR youtubers and channels : 
