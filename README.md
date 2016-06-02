@@ -128,6 +128,10 @@ https://gist.github.com/kyletcarlson/6234923
 
 https://www.youtube.com/watch?v=9LfmrkyP81M
 
+## How to Be A Successful Ruby on Rails Developer
+
+https://www.youtube.com/watch?v=d54B3G-CPbo
+
 ---
 
 
