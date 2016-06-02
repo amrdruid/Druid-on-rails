@@ -119,14 +119,6 @@ http://blog.fullstory.com/
 
 ---
 
-## Related Topics : 
-
-### How to write the a good commit message : 
-
-http://chris.beams.io/posts/git-commit/
-
----
-
 ## Gists : 
 
 ### Testing models : 
@@ -142,31 +134,31 @@ https://github.com/franzejr/best-ruby
 
 # Talks : 
 
-## DHH railsconf 2014 
+### DHH railsconf 2014 
 
 https://www.youtube.com/watch?v=9LfmrkyP81M
 
-## RailsConf 2016 - Opening Day 3 Keynote by Aaron Patterson
+### RailsConf 2016 - Opening Day 3 Keynote by Aaron Patterson
 
 https://www.youtube.com/watch?v=xMFs9DTympQ
 
-## Interview: David Heinemeier Hansson (DHH) on Rails performance and speed
+### Interview: David Heinemeier Hansson (DHH) on Rails performance and speed
 
 https://www.youtube.com/watch?v=ktZLpjCanvg
 
-## DHH and the best people to hire are not in San Francisco
+### DHH and the best people to hire are not in San Francisco
 
 https://www.youtube.com/watch?v=x8Xxie10Qns
 
-## Why the founder of Rails rejects 80% of Software Engineer applicants
+### Why the founder of Rails rejects 80% of Software Engineer applicants
 
 https://www.youtube.com/watch?v=qf6abZeAJh4
 
-## RailsConf 2015 - Deploy and Manage Ruby on Rails Apps on AWS
+### RailsConf 2015 - Deploy and Manage Ruby on Rails Apps on AWS
 
 https://www.youtube.com/watch?v=OQoYTeGJYf4
 
-## How to Be A Successful Ruby on Rails Developer
+### How to Be A Successful Ruby on Rails Developer
 
 https://www.youtube.com/watch?v=d54B3G-CPbo
 
@@ -234,3 +226,12 @@ https://github.com/weshatheleopard/rubyXL
 
 ### Serailly : 
 https://github.com/mikemarsian/serially
+
+---
+
+
+## MISC : 
+
+### How to write the a good commit message : 
+
+http://chris.beams.io/posts/git-commit/
