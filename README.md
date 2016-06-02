@@ -153,26 +153,41 @@ https://www.youtube.com/watch?v=qf6abZeAJh4
 
 https://www.youtube.com/watch?v=OQoYTeGJYf4
 
+## How to Be A Successful Ruby on Rails Developer
 
+https://www.youtube.com/watch?v=d54B3G-CPbo
 
 ---
 
 
 # Gems : 
 
-### Search gems: 
+### Authentication:
+
+https://github.com/plataformatec/devise/
+
+### Authorization:
+
+https://github.com/elabs/pundit
+
+### Search: 
 
 https://github.com/activerecord-hackery/ransack
 
 https://github.com/elastic/elasticsearch-rails
 
 
-### Logging gems:
+### Logging:
 
 https://github.com/ankane/ahoy
 
 
-### Debugging gems:
+### Testing: 
+
+https://github.com/rspec/rspec-rails
+
+
+### Debugging:
 
 https://github.com/deivid-rodriguez/byebug
 
@@ -186,6 +201,11 @@ https://github.com/michaeldv/awesome_print
 https://github.com/capistrano/capistrano
 
 https://github.com/kickstarter/rack-attack
+
+
+### File upload:
+
+https://github.com/carrierwaveuploader/carrierwave
 
 
 ### SpreadSheets gems : 
