@@ -49,17 +49,21 @@ https://www.youtube.com/user/Confreaks
 
 http://blog.fullstory.com/2016/04/code-reviews-arent-just-for-catching-bugs/
 
+
 ###  Slack on rails :
 
 https://viget.com/extend/slack-on-rails
+
 
 ###  How Bundler Works: A History of Ruby Dependency Management :
 
 http://www.cloudcity.io/blog/2015/07/10/how-bundler-works-a-history-of-ruby-dependency-management/
 
+
 ### Know more about ruby gems : 
 
 http://technopadia.com/ruby-gems/
+
 
 ### Use scope with associations : 
 
@@ -79,9 +83,15 @@ https://robots.thoughtbot.com/how-we-test-rails-applications
 
 https://infinum.co/the-capsized-eight/articles/best-ruby-on-rails-refactoring-talks
 
+
 ### Serializer
 
 http://www.sitepoint.com/active-model-serializers-rails-and-json-oh-my/
+
+
+### Ruby operators: equality, comparison, pattern matching and ordering
+
+http://www.zenruby.info/2016/05/ruby-operators-equality-comparison.html
 
 ---
 
@@ -115,7 +125,6 @@ http://blog.fullstory.com/
 
 http://chris.beams.io/posts/git-commit/
 
-
 ---
 
 ## Gists : 
@@ -124,6 +133,10 @@ http://chris.beams.io/posts/git-commit/
 
 https://gist.github.com/kyletcarlson/6234923
 
+
+### Ruby tricks : 
+
+https://github.com/franzejr/best-ruby
 
 ---
 
