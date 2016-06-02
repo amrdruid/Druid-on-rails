@@ -19,7 +19,12 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 ## How to begin ROR : 
 
-http://blog.reskill.me/the-complete-guide-for-learning-ruby-ruby-on-rails-from-scratch/
+
+### Article : How I finally learned to build stuff with Rails
+
+https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzetkhty
+
+### Get better by getting your hands dirty with ruby in codefights
 
 https://codefights.com
 
