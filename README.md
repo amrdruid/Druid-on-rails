@@ -133,9 +133,27 @@ https://gist.github.com/kyletcarlson/6234923
 
 https://www.youtube.com/watch?v=9LfmrkyP81M
 
-## How to Be A Successful Ruby on Rails Developer
+## RailsConf 2016 - Opening Day 3 Keynote by Aaron Patterson
 
-https://www.youtube.com/watch?v=d54B3G-CPbo
+https://www.youtube.com/watch?v=xMFs9DTympQ
+
+## Interview: David Heinemeier Hansson (DHH) on Rails performance and speed
+
+https://www.youtube.com/watch?v=ktZLpjCanvg
+
+## DHH and the best people to hire are not in San Francisco
+
+https://www.youtube.com/watch?v=x8Xxie10Qns
+
+## Why the founder of Rails rejects 80% of Software Engineer applicants
+
+https://www.youtube.com/watch?v=qf6abZeAJh4
+
+## RailsConf 2015 - Deploy and Manage Ruby on Rails Apps on AWS
+
+https://www.youtube.com/watch?v=OQoYTeGJYf4
+
+
 
 ---
 
