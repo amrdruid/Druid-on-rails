@@ -5,10 +5,12 @@
 ### Here you will find links, code and hacks !
 ---
 
-### Summary: 
+* Summary: 
+  * [How to begin ROR] (#how-to-begin-ror)
+  * 
 
-[How to begin ROR][1]
 
+---
 
 ## Interviews, prepare for Rails job opportunities : 
 
