@@ -175,7 +175,8 @@ https://www.youtube.com/watch?v=d54B3G-CPbo
 ---
 
 
-# Gems : 
+# Gems
+
 
 ### Authentication:
 
@@ -240,7 +241,7 @@ https://github.com/mikemarsian/serially
 ---
 
 
-## Misc : 
+## Misc
 
 ### How to write the a good commit message : 
 
