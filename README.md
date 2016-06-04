@@ -2,9 +2,19 @@
 
 ![alt text] (https://cdn1.bloc.io/assets/ruby_warrior/spartacus-cfdb6102cd0a1dc6a635eaecc2403aba.png)
 
-
-
 ### Here you will find links, code and hacks !
+
+* [Summary](#summary) 
+  * [How to begin ROR](#how-to-begin-ror)
+  * [Youtube channels](#youtube-channels)
+  * [Articles](#articles)
+  * [Blogs](#blogs)
+  * [Gists](#gists)
+  * [Rails talks](#rails-talks)
+  * [Gems](#gems)
+  * [Misc](#misc)
+
+
 ---
 
 ## Interviews, prepare for Rails job opportunities : 
@@ -17,7 +27,7 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 ---
 
-## How to begin ROR : 
+## How to begin ROR
 
 
 ### Article : How I finally learned to build stuff with Rails
@@ -30,7 +40,7 @@ https://codefights.com
 
 ---
 
-## Best ROR youtubers and channels : 
+## Youtube channels
 
 http://blog.reskill.me/learn-ruby-on-rails-best-youtubers-to-follow/
 
@@ -42,7 +52,7 @@ https://www.youtube.com/user/Confreaks
 
 ---
 
-## Articles : 
+## Articles
 
 
 ### What we learned from Google: code reviews aren’t just for catching bugs :
@@ -95,7 +105,7 @@ http://www.zenruby.info/2016/05/ruby-operators-equality-comparison.html
 
 ---
 
-## Blogs : 
+## Blogs
 
 http://www.schneems.com/
 
@@ -119,20 +129,20 @@ http://blog.fullstory.com/
 
 ---
 
-## Gists : 
+## Gists
 
-### Testing models : 
+### Testing models: 
 
 https://gist.github.com/kyletcarlson/6234923
 
 
-### Ruby tricks : 
+### Ruby tricks: 
 
 https://github.com/franzejr/best-ruby
 
 ---
 
-# Talks : 
+# Rails talks 
 
 ### DHH railsconf 2014 
 
@@ -165,7 +175,8 @@ https://www.youtube.com/watch?v=d54B3G-CPbo
 ---
 
 
-# Gems : 
+# Gems
+
 
 ### Authentication:
 
@@ -230,7 +241,7 @@ https://github.com/mikemarsian/serially
 ---
 
 
-## MISC : 
+## Misc
 
 ### How to write the a good commit message : 
 
