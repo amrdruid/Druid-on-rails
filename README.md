@@ -2,10 +2,13 @@
 
 ![alt text] (https://cdn1.bloc.io/assets/ruby_warrior/spartacus-cfdb6102cd0a1dc6a635eaecc2403aba.png)
 
-
-
 ### Here you will find links, code and hacks !
 ---
+
+### Summary: 
+
+[How to begin ROR][1]
+
 
 ## Interviews, prepare for Rails job opportunities : 
 
@@ -17,6 +20,7 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 ---
 
+[1]:
 ## How to begin ROR : 
 
 
