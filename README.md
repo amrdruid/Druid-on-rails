@@ -3,11 +3,16 @@
 ![alt text] (https://cdn1.bloc.io/assets/ruby_warrior/spartacus-cfdb6102cd0a1dc6a635eaecc2403aba.png)
 
 ### Here you will find links, code and hacks !
----
 
-* Summary: 
+* [Summary](#summary) 
   * [How to begin ROR](#how-to-begin-ror)
   * [Youtube channels](#youtube-channels)
+  * [Articles](#articles)
+  * [Blogs](#blogs)
+  * [Gists](#gists)
+  * [Rails talks](#rails-talks)
+  * [Gems](#gems)
+  * [Misc](#misc)
 
 
 ---
@@ -47,7 +52,7 @@ https://www.youtube.com/user/Confreaks
 
 ---
 
-## Articles : 
+## Articles
 
 
 ### What we learned from Google: code reviews aren’t just for catching bugs :
@@ -100,7 +105,7 @@ http://www.zenruby.info/2016/05/ruby-operators-equality-comparison.html
 
 ---
 
-## Blogs : 
+## Blogs
 
 http://www.schneems.com/
 
@@ -124,20 +129,20 @@ http://blog.fullstory.com/
 
 ---
 
-## Gists : 
+## Gists
 
-### Testing models : 
+### Testing models: 
 
 https://gist.github.com/kyletcarlson/6234923
 
 
-### Ruby tricks : 
+### Ruby tricks: 
 
 https://github.com/franzejr/best-ruby
 
 ---
 
-# Talks : 
+# Rails talks 
 
 ### DHH railsconf 2014 
 
@@ -235,7 +240,7 @@ https://github.com/mikemarsian/serially
 ---
 
 
-## MISC : 
+## Misc : 
 
 ### How to write the a good commit message : 
 
