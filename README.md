@@ -7,7 +7,13 @@
 ### Here you will find links, code and hacks !
 ---
 
-## Interviews, prepare for Rails job opportunities : 
+## Summary
+..* [Interviews, prepare for Rails job opportunities][1]
+..* [How to begin ROR][2] 
+
+
+
+[1]: ## Interviews, prepare for Rails job opportunities : 
 
 https://www.reskill.me/skill-center/tests/skill/ruby-on-rails
 
@@ -17,7 +23,7 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 ---
 
-## How to begin ROR : 
+[2]: ## How to begin ROR : 
 
 
 ### Article : How I finally learned to build stuff with Rails
