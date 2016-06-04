@@ -8,7 +8,9 @@
 ---
 
 ## Summary
+
 ..* [Interviews, prepare for Rails job opportunities][1]
+
 ..* [How to begin ROR][2] 
 
 
