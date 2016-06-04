@@ -6,8 +6,8 @@
 ---
 
 * Summary: 
-  * [How to begin ROR] (#how-to-begin-ror)
-  * 
+  * [How to begin ROR](#how-to-begin-ror)
+  * [Youtube channels](#youtube-channels)
 
 
 ---
@@ -22,8 +22,7 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 ---
 
-[1]:
-## How to begin ROR : 
+## How to begin ROR
 
 
 ### Article : How I finally learned to build stuff with Rails
@@ -36,7 +35,7 @@ https://codefights.com
 
 ---
 
-## Best ROR youtubers and channels : 
+## Youtube channels
 
 http://blog.reskill.me/learn-ruby-on-rails-best-youtubers-to-follow/
 
