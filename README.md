@@ -104,6 +104,11 @@ http://www.sitepoint.com/active-model-serializers-rails-and-json-oh-my/
 
 http://www.zenruby.info/2016/05/ruby-operators-equality-comparison.html
 
+
+### Ruby Object Model
+
+https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
+
 ---
 
 ## Blogs
