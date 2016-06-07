@@ -109,6 +109,11 @@ http://www.zenruby.info/2016/05/ruby-operators-equality-comparison.html
 
 https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
 
+
+### Ruby Garbage Collection
+
+https://www.scribd.com/doc/27174770/Garbage-Collection-and-the-Ruby-Heap
+
 ---
 
 ## Blogs
