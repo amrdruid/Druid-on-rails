@@ -7,7 +7,7 @@
 * [Summary](#summary) 
   * [Interview Preparations for Rails jobs](#interview-preparations-for-rails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
-  * [Youtube channels](#youtube-channels)
+  * [Channels and vidoes](#channels-and-vidoes)
   * [Articles](#articles)
   * [Blogs](#blogs)
   * [Gists](#gists)
@@ -42,7 +42,7 @@ https://codefights.com
 
 ---
 
-## Youtube channels
+## Channels and vidoes
 
 http://blog.reskill.me/learn-ruby-on-rails-best-youtubers-to-follow/
 
@@ -51,6 +51,8 @@ https://www.youtube.com/user/RailscastsReloaded
 https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
+
+https://gorails.com/
 
 ---
 
