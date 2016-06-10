@@ -13,6 +13,7 @@
   * [Gists](#gists)
   * [Rails talks](#rails-talks)
   * [Gems](#gems)
+  * [Open Source Projects](#open-source-projects)
   * [Misc](#misc)
 
 
@@ -256,8 +257,14 @@ https://github.com/mikemarsian/serially
 
 ---
 
+## Open source projects: 
 
-## Misc
+https://github.com/cantino/huginn
+
+---
+
+
+## Misc:
 
 ### How to write the a good commit message : 
 
