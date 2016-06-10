@@ -44,15 +44,13 @@ https://codefights.com
 
 ## Channels and vidoes
 
-http://blog.reskill.me/learn-ruby-on-rails-best-youtubers-to-follow/
-
 https://www.youtube.com/user/RailscastsReloaded
+
+https://gorails.com/
 
 https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
-
-https://gorails.com/
 
 ---
 
