@@ -214,6 +214,8 @@ https://github.com/ankane/ahoy
 
 https://github.com/rspec/rspec-rails
 
+https://github.com/colszowka/simplecov
+
 
 ### Debugging:
 
@@ -243,16 +245,12 @@ https://github.com/carrierwaveuploader/carrierwave
 
 ### SpreadSheets gems : 
 
-## roo : 
 https://github.com/roo-rb/roo
 
-## spreadsheet :
 https://github.com/zdavatz/spreadsheet
 
-## rubyXL :
 https://github.com/weshatheleopard/rubyXL
 
-### Serailly : 
 https://github.com/mikemarsian/serially
 
 ---
