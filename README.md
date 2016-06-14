@@ -111,9 +111,9 @@ http://www.zenruby.info/2016/05/ruby-operators-equality-comparison.html
 https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
 
 
-### Ruby Garbage Collection
+### 50 Most Common Ruby on Rails Mistakes Beginner Developers Make
 
-https://www.scribd.com/doc/27174770/Garbage-Collection-and-the-Ruby-Heap
+http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/
 
 ---
 
