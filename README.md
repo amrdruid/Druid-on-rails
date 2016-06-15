@@ -115,6 +115,11 @@ https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
 
 http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/
 
+
+### A webserver vs. An App server on rails
+
+http://www.justinweiss.com/articles/a-web-server-vs-an-app-server/
+
 ---
 
 ## Blogs
