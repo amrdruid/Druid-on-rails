@@ -14,6 +14,7 @@
   * [Rails talks](#rails-talks)
   * [Gems](#gems)
   * [Open Source Projects](#open-source-projects)
+  * [My Projects](#my-projects)
   * [Misc](#misc)
 
 
@@ -263,6 +264,15 @@ https://github.com/mikemarsian/serially
 ## Open source projects: 
 
 https://github.com/cantino/huginn
+
+---
+
+## My Projects 
+
+### Twitter hashtag fetcher and responder :
+
+https://github.com/amrdruid/twitter-hashtag-fetcher
+
 
 ---
 
