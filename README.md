@@ -41,6 +41,12 @@ https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzet
 
 https://codefights.com
 
+### Reddit 
+
+https://www.reddit.com/r/ruby/
+
+https://www.reddit.com/r/rails/
+
 ---
 
 ## Channels and vidoes
