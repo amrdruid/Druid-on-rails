@@ -33,6 +33,11 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 ## How to begin ROR
 
 
+### Atrticle: How I trained to learn rails 
+
+https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e#.hb64getuy
+
+
 ### Article : How I finally learned to build stuff with Rails
 
 https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzetkhty
