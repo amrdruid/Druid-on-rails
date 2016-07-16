@@ -37,6 +37,11 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 
 https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzetkhty
 
+### Rubythursday 
+
+https://rubythursday.com/start-here
+
+
 ### Get better by getting your hands dirty with ruby in codefights
 
 https://codefights.com
