@@ -14,6 +14,7 @@
   * [Rails talks](#rails-talks)
   * [Gems](#gems)
   * [Open Source Projects](#open-source-projects)
+  * [Libraries](#libraries)
   * [My Projects](#my-projects)
   * [Misc](#misc)
 
@@ -285,7 +286,19 @@ https://github.com/cantino/huginn
 
 ---
 
-## My Projects 
+## Libraries: 
+
+### Scientist
+
+https://github.com/github/scientist
+
+### Peek
+
+https://github.com/peek/peek
+
+---
+
+## My Projects: 
 
 ### Twitter hashtag fetcher and responder :
 
