@@ -268,7 +268,7 @@ https://github.com/schneems/derailed_benchmarks
 https://github.com/carrierwaveuploader/carrierwave
 
 
-### SpreadSheets gems : 
+### SpreadSheets gems: 
 
 https://github.com/roo-rb/roo
 
@@ -277,6 +277,12 @@ https://github.com/zdavatz/spreadsheet
 https://github.com/weshatheleopard/rubyXL
 
 https://github.com/mikemarsian/serially
+
+
+### Preformance:
+
+https://github.com/gregnavis/active_record_doctor
+
 
 ---
 
