@@ -138,6 +138,10 @@ http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-dat
 
 http://www.justinweiss.com/articles/a-web-server-vs-an-app-server/
 
+### The Last Rails I18n guide 
+
+https://phraseapp.com/blog/posts/last-rails-i18n-guide-youll-ever-need/
+
 ---
 
 ## Blogs
