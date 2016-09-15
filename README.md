@@ -307,7 +307,7 @@ https://github.com/peek/peek
 
 ---
 
-## Projects I'm working at: 
+## Projects I'm working on: 
 
 ### Twitter hashtag fetcher and responder:
 
