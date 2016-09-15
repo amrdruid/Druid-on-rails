@@ -43,11 +43,6 @@ https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e
 
 https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzetkhty
 
-### Rubythursday 
-
-https://rubythursday.com/start-here
-
-
 ### Get better by getting your hands dirty with ruby in codefights
 
 https://codefights.com
@@ -67,6 +62,8 @@ https://www.youtube.com/user/RailscastsReloaded
 https://gorails.com/
 
 https://www.driftingruby.com
+
+https://rubythursday.com/start-here
 
 https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
