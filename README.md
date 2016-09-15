@@ -8,6 +8,7 @@
   * [Interview Preparations for Rails jobs](#interview-preparations-for-rails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
   * [Channels and vidoes](#channels-and-vidoes)
+  * [Books](#books)
   * [Articles](#articles)
   * [Blogs](#blogs)
   * [Gists](#gists)
@@ -68,6 +69,14 @@ https://rubythursday.com/start-here
 https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
+
+---
+
+## Books
+
+### API on Rails
+
+http://apionrails.icalialabs.com/book/chapter_one
 
 ---
 
