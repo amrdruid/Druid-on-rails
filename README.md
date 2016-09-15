@@ -8,6 +8,7 @@
   * [Interview Preparations for Rails jobs](#interview-preparations-for-rails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
   * [Channels and vidoes](#channels-and-vidoes)
+  * [Books](#books)
   * [Articles](#articles)
   * [Blogs](#blogs)
   * [Gists](#gists)
@@ -43,11 +44,6 @@ https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e
 
 https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzetkhty
 
-### Rubythursday 
-
-https://rubythursday.com/start-here
-
-
 ### Get better by getting your hands dirty with ruby in codefights
 
 https://codefights.com
@@ -68,9 +64,19 @@ https://gorails.com/
 
 https://www.driftingruby.com
 
+https://rubythursday.com/start-here
+
 https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
+
+---
+
+## Books
+
+### API on Rails
+
+http://apionrails.icalialabs.com/book/chapter_one
 
 ---
 
@@ -310,7 +316,7 @@ https://github.com/peek/peek
 
 ---
 
-## Projects I'm working at: 
+## Projects I'm working on: 
 
 ### Twitter hashtag fetcher and responder:
 
