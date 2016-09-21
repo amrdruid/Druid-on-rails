@@ -70,6 +70,7 @@ https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
 
+https://www.codemy.net/channels/rails-foundation
 ---
 
 ## Books
