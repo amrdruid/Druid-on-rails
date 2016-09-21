@@ -150,10 +150,11 @@ http://www.justinweiss.com/articles/a-web-server-vs-an-app-server/
 
 https://phraseapp.com/blog/posts/last-rails-i18n-guide-youll-ever-need/
 
+
 ### Safer SQL: Using ActiveRecord Transactions 
 
-
 http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-transactions/
+
 ---
 
 ## Blogs
