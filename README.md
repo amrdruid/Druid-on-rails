@@ -64,13 +64,14 @@ https://gorails.com/
 
 https://www.driftingruby.com
 
+https://www.codemy.net/channels/rails-foundation
+
 https://rubythursday.com/start-here
 
 https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
 
-https://www.codemy.net/channels/rails-foundation
 ---
 
 ## Books
