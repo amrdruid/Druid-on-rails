@@ -157,6 +157,11 @@ https://phraseapp.com/blog/posts/last-rails-i18n-guide-youll-ever-need/
 
 http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-transactions/
 
+
+### Rails Asset Pipeline Best Practices
+
+https://launchschool.com/blog/rails-asset-pipeline-best-practices
+
 ---
 
 ## Blogs
