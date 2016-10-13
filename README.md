@@ -80,6 +80,10 @@ https://www.youtube.com/user/Confreaks
 
 http://apionrails.icalialabs.com/book/chapter_one
 
+### Ruby on Rails Tutorial by Michael Hartl
+
+https://www.railstutorial.org/book
+
 ---
 
 ## Articles
