@@ -328,15 +328,11 @@ https://github.com/peek/peek
 
 ---
 
-## Projects I'm working on: 
+## Open Source Projects I'm working on: 
 
 ### Twitter hashtag fetcher and responder:
 
 https://github.com/amrdruid/twitter-hashtag-fetcher
-
-### Hospital system: 
-
-https://github.com/Elkont33/Hospitalreach
 
 ---
 
