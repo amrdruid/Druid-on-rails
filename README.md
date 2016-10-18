@@ -4,7 +4,7 @@
 
 ### Here you will find links, code and hacks !
 
-* [Summary](#summary) 
+* [Summary](#summary)
   * [Interview Preparations for Rails jobs](#interview-preparations-for-rails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
   * [Channels and vidoes](#channels-and-vidoes)
@@ -35,7 +35,7 @@ https://www.testdome.com/Programming-Tests/Ruby/52
 ## How to begin ROR
 
 
-### Atrticle: How I trained to learn rails 
+### Article: How I trained to learn rails 
 
 https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e#.hb64getuy
 
@@ -48,7 +48,7 @@ https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzet
 
 https://codefights.com
 
-### Reddit 
+### Reddit
 
 https://www.reddit.com/r/ruby/
 
@@ -104,26 +104,26 @@ https://viget.com/extend/slack-on-rails
 http://www.cloudcity.io/blog/2015/07/10/how-bundler-works-a-history-of-ruby-dependency-management/
 
 
-### Know more about ruby gems : 
+### Know more about ruby gems :
 
 http://technopadia.com/ruby-gems/
 
 
-### Use scope with associations : 
+### Use scope with associations :
 
 http://ducktypelabs.com/using-scope-with-associations/
 
 
-### Deployement testing cycle : 
+### Deployement testing cycle :
 
 https://workshop.masterofcode.com/three-phases-deployment-testing-cycle/
 
-### How to test rails application : 
+### How to test rails application :
 
 https://robots.thoughtbot.com/how-we-test-rails-applications
 
 
-### Best ROR refactoring talks : 
+### Best ROR refactoring talks :
 
 https://infinum.co/the-capsized-eight/articles/best-ruby-on-rails-refactoring-talks
 
@@ -152,12 +152,12 @@ http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-dat
 
 http://www.justinweiss.com/articles/a-web-server-vs-an-app-server/
 
-### The Last Rails I18n guide 
+### The Last Rails I18n guide
 
 https://phraseapp.com/blog/posts/last-rails-i18n-guide-youll-ever-need/
 
 
-### Safer SQL: Using ActiveRecord Transactions 
+### Safer SQL: Using ActiveRecord Transactions
 
 http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-transactions/
 
@@ -196,20 +196,20 @@ https://www.sitepoint.com/ruby/
 
 ## Gists
 
-### Testing models: 
+### Testing models:
 
 https://gist.github.com/kyletcarlson/6234923
 
 
-### Ruby tricks: 
+### Ruby tricks:
 
 https://github.com/franzejr/best-ruby
 
 ---
 
-# Rails talks 
+# Rails talks
 
-### DHH railsconf 2014 
+### DHH railsconf 2014
 
 https://www.youtube.com/watch?v=9LfmrkyP81M
 
@@ -251,7 +251,7 @@ https://github.com/plataformatec/devise/
 
 https://github.com/elabs/pundit
 
-### Search: 
+### Search:
 
 https://github.com/activerecord-hackery/ransack
 
@@ -263,7 +263,7 @@ https://github.com/elastic/elasticsearch-rails
 https://github.com/ankane/ahoy
 
 
-### Testing: 
+### Testing:
 
 https://github.com/rspec/rspec-rails
 
@@ -286,7 +286,7 @@ https://github.com/capistrano/capistrano
 https://github.com/kickstarter/rack-attack
 
 
-### BenchMarks: 
+### BenchMarks:
 
 https://github.com/schneems/derailed_benchmarks
 
@@ -296,7 +296,7 @@ https://github.com/schneems/derailed_benchmarks
 https://github.com/carrierwaveuploader/carrierwave
 
 
-### SpreadSheets gems: 
+### SpreadSheets gems:
 
 https://github.com/roo-rb/roo
 
@@ -314,13 +314,13 @@ https://github.com/gregnavis/active_record_doctor
 
 ---
 
-## Open source projects: 
+## Open source projects:
 
 https://github.com/cantino/huginn
 
 ---
 
-## Libraries: 
+## Libraries:
 
 ### Scientist
 
@@ -332,7 +332,7 @@ https://github.com/peek/peek
 
 ---
 
-## Open Source Projects I'm working on: 
+## Open Source Projects I'm working on:
 
 ### Twitter hashtag fetcher and responder:
 
@@ -343,10 +343,10 @@ https://github.com/amrdruid/twitter-hashtag-fetcher
 
 ## Misc:
 
-### How to write the a good commit message : 
+### How to write the a good commit message :
 
 http://chris.beams.io/posts/git-commit/
 
-### Google Interview University 
+### Google Interview University
 
 https://github.com/jwasham/google-interview-university

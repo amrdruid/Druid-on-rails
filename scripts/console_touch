@@ -1,7 +1,0 @@
-Starting with "rails c" :
-
-######
-Command: Mime::SET.collect(&:to_s)
-
-Description: shows all media types that rails supports  
-######
