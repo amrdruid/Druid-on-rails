@@ -166,6 +166,11 @@ http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-trans
 
 https://launchschool.com/blog/rails-asset-pipeline-best-practices
 
+
+### Storing data with redis 
+
+http://www.mikeperham.com/2015/09/24/storing-data-with-redis/
+
 ---
 
 ## Blogs
