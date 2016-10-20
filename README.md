@@ -1,6 +1,6 @@
 # Druid-on-rails
 
-![alt text] (http://bestanimations.com/Fantasy/Mages/Druid-04-june.gif)
+![alt text] (http://media.indiedb.com/images/articles/1/172/171072/auto/druidarcher_o.gif)
 
 ### Here you will find links, code and hacks !
 
