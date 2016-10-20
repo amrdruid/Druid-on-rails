@@ -1,6 +1,6 @@
 # Druid-on-rails
 
-![alt text] (https://cdn1.bloc.io/assets/ruby_warrior/spartacus-cfdb6102cd0a1dc6a635eaecc2403aba.png)
+![alt text] (http://bestanimations.com/Fantasy/Mages/Druid-04-june.gif)
 
 ### Here you will find links, code and hacks !
 
