@@ -335,6 +335,10 @@ https://github.com/github/scientist
 
 https://github.com/peek/peek
 
+### Sunspot
+
+https://github.com/sunspot/sunspot
+
 ---
 
 ## Open Source Projects I'm working on:
