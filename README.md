@@ -177,6 +177,8 @@ http://www.mikeperham.com/2015/09/24/storing-data-with-redis/
 
 http://www.schneems.com/
 
+http://www.mikeperham.com/
+
 http://rubyofftherails.blogspot.com.br/
 
 http://blog.honeybadger.io/ruby/
