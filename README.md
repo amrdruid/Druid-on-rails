@@ -171,6 +171,11 @@ https://launchschool.com/blog/rails-asset-pipeline-best-practices
 
 http://www.mikeperham.com/2015/09/24/storing-data-with-redis/
 
+
+### Is Ruby interpreted or compiled ?
+
+http://patshaughnessy.net/2012/2/15/is-ruby-interpreted-or-compiled
+
 ---
 
 ## Blogs
