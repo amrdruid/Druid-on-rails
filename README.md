@@ -176,6 +176,11 @@ http://www.mikeperham.com/2015/09/24/storing-data-with-redis/
 
 http://patshaughnessy.net/2012/2/15/is-ruby-interpreted-or-compiled
 
+
+### The Many Interpreters and Runtimes of the Ruby Programming Language
+
+https://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
+
 ---
 
 ## Blogs
