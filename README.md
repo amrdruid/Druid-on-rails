@@ -181,6 +181,12 @@ http://patshaughnessy.net/2012/2/15/is-ruby-interpreted-or-compiled
 
 https://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
 
+
+### AngularJS and Ruby on Rails Tutorial
+
+https://www.nopio.com/blog/angularjs-tutorial/
+
+
 ---
 
 ## Blogs
