@@ -187,6 +187,11 @@ https://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
 https://www.nopio.com/blog/angularjs-tutorial/
 
 
+### 10 Ruby on Rails Best Practices
+
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
+
+
 ---
 
 ## Blogs
