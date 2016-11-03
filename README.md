@@ -192,6 +192,11 @@ https://www.nopio.com/blog/angularjs-tutorial/
 https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
 
 
+### Improving Rails Performance with Better Background Jobs
+
+https://blog.codeship.com/improving-rails-performance-better-background-jobs/
+
+
 ---
 
 ## Blogs
