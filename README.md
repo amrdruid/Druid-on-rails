@@ -197,6 +197,11 @@ https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
 https://blog.codeship.com/improving-rails-performance-better-background-jobs/
 
 
+### Keeping Data Integrity in Check: Conditional Unique Indexes for Soft Delete
+
+https://karolgalanciak.com/blog/2016/11/01/keeping-data-integrity-in-check-conditional-unique-indexes-for-soft-delete/
+
+
 ---
 
 ## Blogs
