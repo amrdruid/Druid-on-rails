@@ -1,6 +1,6 @@
 # Druid-on-rails
 
-![alt text] (https://cdn1.bloc.io/assets/ruby_warrior/spartacus-cfdb6102cd0a1dc6a635eaecc2403aba.png)
+![alt text] (http://media.indiedb.com/images/articles/1/172/171072/auto/druidarcher_o.gif)
 
 ### Here you will find links, code and hacks !
 
@@ -166,11 +166,49 @@ http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-trans
 
 https://launchschool.com/blog/rails-asset-pipeline-best-practices
 
+
+### Storing data with redis 
+
+http://www.mikeperham.com/2015/09/24/storing-data-with-redis/
+
+
+### Is Ruby interpreted or compiled ?
+
+http://patshaughnessy.net/2012/2/15/is-ruby-interpreted-or-compiled
+
+
+### The Many Interpreters and Runtimes of the Ruby Programming Language
+
+https://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
+
+
+### AngularJS and Ruby on Rails Tutorial
+
+https://www.nopio.com/blog/angularjs-tutorial/
+
+
+### 10 Ruby on Rails Best Practices
+
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
+
+
+### Improving Rails Performance with Better Background Jobs
+
+https://blog.codeship.com/improving-rails-performance-better-background-jobs/
+
+
+### Keeping Data Integrity in Check: Conditional Unique Indexes for Soft Delete
+
+https://karolgalanciak.com/blog/2016/11/01/keeping-data-integrity-in-check-conditional-unique-indexes-for-soft-delete/
+
+
 ---
 
 ## Blogs
 
 http://www.schneems.com/
+
+http://www.mikeperham.com/
 
 http://rubyofftherails.blogspot.com.br/
 
@@ -191,6 +229,8 @@ http://ruby.libhunt.com/
 http://blog.fullstory.com/
 
 https://www.sitepoint.com/ruby/
+
+http://ducktypelabs.com/
 
 ---
 
@@ -330,9 +370,17 @@ https://github.com/github/scientist
 
 https://github.com/peek/peek
 
+### Sunspot
+
+https://github.com/sunspot/sunspot
+
 ---
 
 ## Open Source Projects I'm working on:
+
+### Github Sandbox
+
+https://github.com/amrdruid/github_sandbox
 
 ### Twitter hashtag fetcher and responder:
 
