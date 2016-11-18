@@ -16,6 +16,7 @@
   * [Gems](#gems)
   * [Open Source Projects](#open-source-projects)
   * [Libraries](#libraries)
+  * [Tools](#tools)
   * [My Projects](#my-projects)
   * [Misc](#misc)
 
@@ -202,6 +203,11 @@ https://blog.codeship.com/improving-rails-performance-better-background-jobs/
 https://karolgalanciak.com/blog/2016/11/01/keeping-data-integrity-in-check-conditional-unique-indexes-for-soft-delete/
 
 
+### DRY Off Your Rails Code with ActiveSupport::Concerns
+
+https://www.sitepoint.com/dry-off-your-rails-code-with-activesupportconcerns/
+
+
 ---
 
 ## Blogs
@@ -358,6 +364,7 @@ https://github.com/gregnavis/active_record_doctor
 
 https://github.com/cantino/huginn
 
+
 ---
 
 ## Libraries:
@@ -373,6 +380,14 @@ https://github.com/peek/peek
 ### Sunspot
 
 https://github.com/sunspot/sunspot
+
+---
+
+## Tools: 
+
+### Postman
+
+https://www.getpostman.com/
 
 ---
 
