@@ -208,6 +208,11 @@ https://karolgalanciak.com/blog/2016/11/01/keeping-data-integrity-in-check-condi
 https://www.sitepoint.com/dry-off-your-rails-code-with-activesupportconcerns/
 
 
+### Rails Database Best Practices
+
+http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/
+
+
 ---
 
 ## Blogs
