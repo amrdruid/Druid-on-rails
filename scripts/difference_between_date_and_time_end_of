@@ -1,0 +1,10 @@
+# False 
+
+DateTime.now.end_of_day == Time.now.end_of_day 
+
+# It is recommended to favor Time over DateTime when it comes to the end of day. Because according to DateTime a time between 23:59:59 and 24:00:00 is # undefined: it is neither before the end of the day nor after the beginning of a day.
+
+
+# The same applies to all time transitions. So all day endings (#end_of_month and #end_of_year), but also #end_of_hour and #end_of_minute.
+
+
