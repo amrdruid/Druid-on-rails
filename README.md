@@ -288,6 +288,10 @@ https://www.youtube.com/watch?v=OQoYTeGJYf4
 
 https://www.youtube.com/watch?v=AuKn65E8T3w
 
+### Rails Conf 2013 Cache=Cash! by Stefan Wintermeyer
+
+https://www.youtube.com/watch?v=7uKxDVflXdI
+
 ### How to Be A Successful Ruby on Rails Developer
 
 https://www.youtube.com/watch?v=d54B3G-CPbo
