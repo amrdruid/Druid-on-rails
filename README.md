@@ -284,6 +284,10 @@ https://www.youtube.com/watch?v=qf6abZeAJh4
 
 https://www.youtube.com/watch?v=OQoYTeGJYf4
 
+### RailsConf 2015 - The power of cache in a slow world
+
+https://www.youtube.com/watch?v=AuKn65E8T3w
+
 ### How to Be A Successful Ruby on Rails Developer
 
 https://www.youtube.com/watch?v=d54B3G-CPbo
