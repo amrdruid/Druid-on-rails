@@ -213,6 +213,11 @@ https://www.sitepoint.com/dry-off-your-rails-code-with-activesupportconcerns/
 http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/
 
 
+## Scaling Ruby on Rails by Caching your database queries
+
+http://codebeerstartups.com/2014/11/scaling-ruby-on-rails-by-caching-your-database-queries/
+
+
 ---
 
 ## Blogs
