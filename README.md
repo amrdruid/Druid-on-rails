@@ -31,6 +31,8 @@ http://blog.reskill.me/ruby-on-rails-interview-questions-that-will-land-you-the-
 
 https://www.testdome.com/Programming-Tests/Ruby/52
 
+http://blog.rubyroidlabs.com/2016/12/how-we-interview-ruby/
+
 ---
 
 ## How to begin ROR
