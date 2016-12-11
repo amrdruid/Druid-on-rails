@@ -299,6 +299,10 @@ https://www.youtube.com/watch?v=AuKn65E8T3w
 
 https://www.youtube.com/watch?v=7uKxDVflXdI
 
+### RubyConf 2016 - Halve Your Memory Usage With These 12 Weird Tricks
+
+https://www.youtube.com/watch?v=kZcqyuPeDao
+
 ### How to Be A Successful Ruby on Rails Developer
 
 https://www.youtube.com/watch?v=d54B3G-CPbo
