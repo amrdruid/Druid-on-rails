@@ -11,7 +11,6 @@
   * [Books](#books)
   * [Articles](#articles)
   * [Blogs](#blogs)
-  * [Gists](#gists)
   * [Rails talks](#rails-talks)
   * [Gems](#gems)
   * [Open Source Projects](#open-source-projects)
@@ -251,18 +250,6 @@ https://www.sitepoint.com/ruby/
 
 http://ducktypelabs.com/
 
----
-
-## Gists
-
-### Testing models:
-
-https://gist.github.com/kyletcarlson/6234923
-
-
-### Ruby tricks:
-
-https://github.com/franzejr/best-ruby
 
 ---
 
@@ -444,4 +431,18 @@ https://github.com/jwasham/google-interview-university
 
 ## Gists:
 
+### Testing models:
+
+https://gist.github.com/kyletcarlson/6234923
+
+
+### Ruby tricks:
+
+
+### MyGists:
+
+https://github.com/franzejr/best-ruby
+
 https://gist.github.com/amrdruid
+
+--
