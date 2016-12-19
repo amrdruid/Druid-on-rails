@@ -438,6 +438,8 @@ https://gist.github.com/kyletcarlson/6234923
 
 ### Ruby tricks:
 
+https://github.com/franzejr/best-ruby
+
 
 ### MyGists:
 
