@@ -19,6 +19,7 @@
   * [Tools](#tools)
   * [My Projects](#my-projects)
   * [Misc](#misc)
+  * [Gists](#gists)
 
 
 ---
@@ -437,3 +438,10 @@ http://chris.beams.io/posts/git-commit/
 ### Google Interview University
 
 https://github.com/jwasham/google-interview-university
+
+
+---
+
+## Gists:
+
+https://gist.github.com/amrdruid
