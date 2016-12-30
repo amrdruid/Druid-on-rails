@@ -224,6 +224,11 @@ http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/
 http://codebeerstartups.com/2014/11/scaling-ruby-on-rails-by-caching-your-database-queries/
 
 
+### 11 Ruby Tricks You Haven’t Seen 
+
+http://www.blackbytes.info/2016/01/ruby-tricks/?utm_source=rubyweekly&utm_medium=email
+
+
 ---
 
 ## Blogs
