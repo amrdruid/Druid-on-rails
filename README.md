@@ -229,6 +229,10 @@ http://codebeerstartups.com/2014/11/scaling-ruby-on-rails-by-caching-your-databa
 http://www.blackbytes.info/2016/01/ruby-tricks/?utm_source=rubyweekly&utm_medium=email
 
 
+### Geocoder: Display Maps and Find Places in Rails
+
+https://www.sitepoint.com/geocoder-display-maps-and-find-places-in-rails/
+
 ---
 
 ## Blogs
