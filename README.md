@@ -340,6 +340,7 @@ https://github.com/rspec/rspec-rails
 
 https://github.com/colszowka/simplecov
 
+https://github.com/teamcapybara/capybara
 
 ### Debugging:
 
