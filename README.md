@@ -233,6 +233,12 @@ http://www.blackbytes.info/2016/01/ruby-tricks/?utm_source=rubyweekly&utm_medium
 
 https://www.sitepoint.com/geocoder-display-maps-and-find-places-in-rails/
 
+
+### How to globally disable rdoc and ri during gem installs
+
+http://blog.honeybadger.io/how-to-globally-disable-rdoc-and-ri-during-gem-installs/
+
+
 ---
 
 ## Blogs
