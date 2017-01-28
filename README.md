@@ -239,6 +239,11 @@ https://www.sitepoint.com/geocoder-display-maps-and-find-places-in-rails/
 http://blog.honeybadger.io/how-to-globally-disable-rdoc-and-ri-during-gem-installs/
 
 
+### Update Your Gems Early and Often
+
+https://gemnasium.com/
+
+
 ---
 
 ## Blogs
