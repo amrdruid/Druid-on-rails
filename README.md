@@ -475,4 +475,6 @@ https://github.com/franzejr/best-ruby
 
 https://gist.github.com/amrdruid
 
+https://gist.github.com/amrdruid/090fb5ec7be423e0325d49e76a4bb652
+
 --
