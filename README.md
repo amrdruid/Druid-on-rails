@@ -399,8 +399,13 @@ https://github.com/gregnavis/active_record_doctor
 
 ## Open source projects:
 
+### Huginn
+
 https://github.com/cantino/huginn
 
+### Testing automation 
+
+https://github.com/atinfo/awesome-test-automation
 
 ---
 
