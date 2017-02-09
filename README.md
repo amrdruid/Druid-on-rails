@@ -319,6 +319,10 @@ https://www.youtube.com/watch?v=kZcqyuPeDao
 
 https://www.youtube.com/watch?v=d54B3G-CPbo
 
+### Redis Basics
+
+https://www.driftingruby.com/episodes/redis-basics
+
 ---
 
 
