@@ -260,6 +260,10 @@ http://blog.honeybadger.io/how-to-globally-disable-rdoc-and-ri-during-gem-instal
 https://gemnasium.com/
 
 
+### try(), try() again in Rails
+
+https://everydayrails.com/2011/04/28/rails-try-method.html
+
 ---
 
 ## Blogs
