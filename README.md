@@ -23,15 +23,23 @@
 
 ---
 
-## Interview Preparations for Rails jobs
+## Interview Preparations for Ruby/Rails jobs
 
-https://www.reskill.me/skill-center/tests/skill/ruby-on-rails
+### Do Mock Interviews on Pramp - using ruby
 
-http://blog.reskill.me/ruby-on-rails-interview-questions-that-will-land-you-the-job/
+https://pramp.com/
 
-https://www.testdome.com/Programming-Tests/Ruby/52
+### RUBY ON RAILS Interview Questions That Will Land You The Job!
 
-http://blog.rubyroidlabs.com/2016/12/how-we-interview-ruby/
+http://blog.mypath.io/ruby-on-rails-interview-questions-that-will-land-you-the-job/
+
+### Ruby online test
+
+https://www.testdome.com/tests/ruby-online-test/52
+
+### RubyConf 2015 - The Art of Ruby Technical Interviews by Chris Mar
+
+https://www.youtube.com/watch?v=nZNfSQKC-Yk
 
 ---
 
