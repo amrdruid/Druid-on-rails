@@ -103,6 +103,10 @@ http://apionrails.icalialabs.com/book/chapter_one
 
 https://www.railstutorial.org/book
 
+### The Well-Grounded Rubyist 2nd Edition
+
+https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692
+
 ---
 
 ## Articles
