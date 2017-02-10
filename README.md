@@ -51,15 +51,19 @@ https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.wkzet
 
 https://codefights.com
 
+### Reddit post: How I learned Rails from absolute scratch — and got to the point where I get offered jobs
+
+https://www.reddit.com/r/rails/comments/364s5w/how_i_learned_rails_from_absolute_scratch_and_got/
+
+### Tips on becoming a Ruby expert
+
+https://www.reddit.com/r/ruby/comments/2zlcyc/tips_on_becoming_a_ruby_expert/
+
 ### Reddit
 
 https://www.reddit.com/r/ruby/
 
 https://www.reddit.com/r/rails/
-
-### Tips on becoming a Ruby expert
-
-https://www.reddit.com/r/ruby/comments/2zlcyc/tips_on_becoming_a_ruby_expert/
 
 ---
 
