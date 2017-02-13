@@ -7,7 +7,7 @@
 * [Summary](#summary)
   * [Interview Preparations for Rails jobs](#interview-preparations-for-rails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
-  * [Channels and vidoes](#channels-and-vidoes)
+  * [Channels and videos](#channels-and-videos)
   * [Books](#books)
   * [Articles](#articles)
   * [Blogs](#blogs)
@@ -71,11 +71,13 @@ https://www.reddit.com/r/rails/
 
 ### Get better by getting your hands dirty with ruby in codefights
 
-https://codefights.com
+https://codefights.com/
+
+https://www.codewars.com/
 
 ---
 
-## Channels and vidoes
+## Channels and videos
 
 https://www.youtube.com/user/RailscastsReloaded
 
