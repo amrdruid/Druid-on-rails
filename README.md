@@ -71,7 +71,9 @@ https://www.reddit.com/r/rails/
 
 ### Get better by getting your hands dirty with ruby in codefights
 
-https://codefights.com
+https://codefights.com/
+
+https://www.codewars.com/
 
 ---
 
