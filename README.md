@@ -271,6 +271,12 @@ https://everydayrails.com/2011/04/28/rails-try-method.html
 
 http://tech.honestbee.com/articles/ruby%20on%20rails/2017-01/getting-your-rails-setup-right
 
+
+### Rails API Testing Best Practices
+
+http://matthewlehner.net/rails-api-testing-guidelines/
+
+
 ---
 
 ## Blogs
