@@ -426,6 +426,9 @@ https://github.com/weshatheleopard/rubyXL
 
 https://github.com/mikemarsian/serially
 
+### PDF generation
+
+https://github.com/prawnpdf/prawn
 
 ### Preformance:
 
