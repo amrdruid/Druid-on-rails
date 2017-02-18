@@ -426,6 +426,13 @@ https://github.com/weshatheleopard/rubyXL
 
 https://github.com/mikemarsian/serially
 
+### PDF generation
+
+https://github.com/cortiz/prawn-rails
+
+and for information on how to specifiy the PDF content see:
+
+https://github.com/prawnpdf/prawn
 
 ### Preformance:
 
