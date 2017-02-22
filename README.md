@@ -277,6 +277,11 @@ http://tech.honestbee.com/articles/ruby%20on%20rails/2017-01/getting-your-rails-
 http://matthewlehner.net/rails-api-testing-guidelines/
 
 
+### Duck typing vs type safety in Ruby
+
+http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html
+
+
 ---
 
 ## Blogs
