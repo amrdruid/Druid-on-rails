@@ -312,6 +312,8 @@ https://www.sitepoint.com/ruby/
 
 http://ducktypelabs.com/
 
+https://thesocietea.org/blog/
+
 
 ---
 
