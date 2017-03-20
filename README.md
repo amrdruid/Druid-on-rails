@@ -288,6 +288,16 @@ http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html
 
 http://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html
 
+
+### Visualizing Garbage Collection Algorithms
+
+https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/
+
+
+### Deploy Your Rails App to AWS using Capistrano, Puma and Nginx 
+
+https://www.sitepoint.com/deploy-your-rails-app-to-aws/
+
 ---
 
 ## Blogs
