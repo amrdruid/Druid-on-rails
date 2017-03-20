@@ -490,14 +490,14 @@ https://www.getpostman.com/
 
 ## Development tools
 
-The following is hardly a limitative list of products and tools. Please add more to the list.
+The following is hardly a limitative list of products and tools.
 
 ### Integrated Development Environments
 
 #### RubyMine
 
 https://www.jetbrains.com/ruby/ - this is an actively developed cross-platform plugin-based IDE derived from their IntelliJ IDEA product that runs
-on macOS, a number of Linuxes and on Windows. The people at JetBrains are pretty responsive to their user community. 
+on macOS, a number of linux distrubtions and on Windows. The people at JetBrains are pretty responsive to their user community. 
 It's possible to try out their IDE for 30 days, after that you have to buy a license from them. 
 Has excellent support for Ruby and for Rails just to mention a few. It's possible to
 add functionality by installing from a large collection of plugins.
@@ -506,9 +506,8 @@ add functionality by installing from a large collection of plugins.
 
 #### Sublime Text
 
-http://www.sublimetext.com/ - really a super fast cross-platform package-based editor. If you ask me, this is the go-to editor for developers. Runs on 
-macOS, a number of Linuxes and on Windows. Their package system is based on Python. Sublime Text is able to support a large number
-of languages and dialects. 
+http://www.sublimetext.com/ - really a super fast cross-platform package-based editor. Runs on 
+macOS, a number of linux distrubtions and on Windows. Their package system is based on Python. Sublime Text is able to support a large number of languages and dialects. 
 
 #### Atom
 
@@ -522,7 +521,9 @@ https://www.gnu.org/software/emacs/ - Everything including the kitchensink.
 
 https://vim.sourceforge.io - Open-source improved vi.
 
+
 ---
+
 
 ## Open Source Projects I'm working on:
 
