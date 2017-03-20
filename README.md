@@ -1,6 +1,8 @@
 # Druid-on-rails
 
-![alt tag] (http://media.indiedb.com/images/articles/1/172/171072/auto/druidarcher_o.gif)
+![alt tag](http://media.indiedb.com/images/articles/1/172/171072/auto/druidarcher_o.gif)
+
+
 
 ### Here you will find links, code and hacks !
 
@@ -281,6 +283,10 @@ http://matthewlehner.net/rails-api-testing-guidelines/
 
 http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html
 
+
+### Faster Rails: How to Check if a Record Exists
+
+http://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html
 
 ---
 
