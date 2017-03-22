@@ -111,6 +111,15 @@ https://www.railstutorial.org/book
 
 https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692
 
+### Practical Object-Oriented Design in Ruby: An Agile Primer
+
+https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C/
+
+### Effective Ruby: 48 Specific Ways to Write Better Ruby
+
+https://www.amazon.com/Effective-Ruby-Specific-Software-Development-ebook/dp/B00NEOERH6/
+
+
 ---
 
 ## Articles
