@@ -307,6 +307,12 @@ https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorith
 
 https://www.sitepoint.com/deploy-your-rails-app-to-aws/
 
+
+### Jumping Off The Ruby Memory Cliff
+
+https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/
+
+
 ---
 
 ## Blogs
