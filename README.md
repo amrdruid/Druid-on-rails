@@ -313,6 +313,11 @@ https://www.sitepoint.com/deploy-your-rails-app-to-aws/
 https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/
 
 
+### Stop Using Case Statements in Ruby
+
+http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/
+
+
 ---
 
 ## Blogs
@@ -582,9 +587,16 @@ https://github.com/amrdruid/twitter-hashtag-fetcher
 
 http://chris.beams.io/posts/git-commit/
 
+
+### Service discovery at Stripe 
+
+https://stripe.com/blog/service-discovery-at-stripe
+
+
 ### Google Interview University
 
 https://github.com/jwasham/google-interview-university
+
 
 ### Regexone
 
