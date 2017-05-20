@@ -14,18 +14,20 @@
   * [Articles](#articles)
   * [Blogs](#blogs)
   * [Rails talks](#rails-talks)
+  * [Misc Articles](#misc-articles)
   * [Gems](#gems)
   * [Open Source Projects](#open-source-projects)
   * [Libraries](#libraries)
   * [Tools](#tools)
-  * [My Projects](#my-projects)
   * [Misc](#misc)
   * [Gists](#gists)
+  * [People To Follow](#people-to-follow)
+
 
 
 ---
 
-## Interview Preparations for Ruby/Rails jobs
+# Interview Preparations for Ruby/Rails jobs
 
 ### Do Mock Interviews on Pramp - using ruby
 
@@ -320,7 +322,7 @@ http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/
 
 ---
 
-## Blogs
+# Blogs
 
 http://www.schneems.com/
 
@@ -398,6 +400,16 @@ https://www.youtube.com/watch?v=d54B3G-CPbo
 ### Redis Basics
 
 https://www.driftingruby.com/episodes/redis-basics
+
+---
+
+# Misc Articles 
+
+
+### Pairing with Junior Developers
+
+https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
+
 
 ---
 
@@ -507,19 +519,23 @@ https://github.com/atinfo/awesome-test-automation
 
 ---
 
-## Libraries:
+# Libraries:
+
 
 ### Scientist
 
 https://github.com/github/scientist
 
+
 ### Peek
 
 https://github.com/peek/peek
 
+
 ### Sunspot
 
 https://github.com/sunspot/sunspot
+
 
 ---
 
@@ -529,7 +545,14 @@ https://github.com/sunspot/sunspot
 
 https://www.getpostman.com/
 
+
+### Rails Panel
+
+https://github.com/dejan/rails_panel
+
+
 ---
+
 
 ## Development tools
 
@@ -567,23 +590,9 @@ https://vim.sourceforge.io - Open-source improved vi.
 
 ---
 
-
-## Open Source Projects I'm working on:
-
-### Github Sandbox
-
-https://github.com/amrdruid/github_sandbox
-
-### Twitter hashtag fetcher and responder:
-
-https://github.com/amrdruid/twitter-hashtag-fetcher
-
----
-
-
 ## Misc:
 
-### How to write the a good commit message :
+### How to write a good commit message :
 
 http://chris.beams.io/posts/git-commit/
 
@@ -604,7 +613,7 @@ https://regexone.com/
 
 ---
 
-## Gists:
+# Gists:
 
 ### Testing models:
 
@@ -616,12 +625,22 @@ https://gist.github.com/kyletcarlson/6234923
 https://github.com/franzejr/best-ruby
 
 
-### MyGists:
+---
 
-https://github.com/franzejr/best-ruby
+# People To Follow: 
 
-https://gist.github.com/amrdruid
+Jeff Atwood: https://twitter.com/codinghorror
 
-https://gist.github.com/amrdruid/090fb5ec7be423e0325d49e76a4bb652
+Scott Hanselman: https://twitter.com/shanselman
 
---
+Sarah Mei: https://twitter.com/sarahmei
+
+Aaron Patterson: https://twitter.com/tenderlove
+
+Gregory Brown: https://twitter.com/practicingdev
+
+Sandi Metz: https://twitter.com/sandimetz
+
+Richard Schneeman: https://twitter.com/schneems
+
+Avdi Grimm: https://twitter.com/avdi
