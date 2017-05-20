@@ -12,9 +12,9 @@
   * [Channels and videos](#channels-and-videos)
   * [Books](#books)
   * [Articles](#articles)
+  * [Misc Articles](#misc-articles)
   * [Blogs](#blogs)
   * [Rails talks](#rails-talks)
-  * [Misc Articles](#misc-articles)
   * [Gems](#gems)
   * [Open Source Projects](#open-source-projects)
   * [Libraries](#libraries)
@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=nZNfSQKC-Yk
 
 ---
 
-## How to begin ROR
+# How to begin ROR
 
 
 ### Article: How I trained to learn rails 
@@ -81,7 +81,7 @@ https://www.codewars.com/
 
 ---
 
-## Channels and videos
+# Channels and videos
 
 https://www.youtube.com/user/RailscastsReloaded
 
@@ -99,7 +99,7 @@ https://www.youtube.com/user/Confreaks
 
 ---
 
-## Books
+# Books
 
 ### API on Rails
 
@@ -124,7 +124,7 @@ https://www.amazon.com/Effective-Ruby-Specific-Software-Development-ebook/dp/B00
 
 ---
 
-## Articles
+# Articles
 
 
 ### What we learned from Google: code reviews aren’t just for catching bugs :
@@ -322,6 +322,26 @@ http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/
 
 ---
 
+# Misc Articles 
+
+
+### Pairing with Junior Developers
+
+https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
+
+
+### How to write a good commit message :
+
+http://chris.beams.io/posts/git-commit/
+
+
+### Service discovery at Stripe 
+
+https://stripe.com/blog/service-discovery-at-stripe
+
+
+---
+
 # Blogs
 
 http://www.schneems.com/
@@ -400,15 +420,6 @@ https://www.youtube.com/watch?v=d54B3G-CPbo
 ### Redis Basics
 
 https://www.driftingruby.com/episodes/redis-basics
-
----
-
-# Misc Articles 
-
-
-### Pairing with Junior Developers
-
-https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
 
 
 ---
@@ -590,16 +601,7 @@ https://vim.sourceforge.io - Open-source improved vi.
 
 ---
 
-## Misc:
-
-### How to write a good commit message :
-
-http://chris.beams.io/posts/git-commit/
-
-
-### Service discovery at Stripe 
-
-https://stripe.com/blog/service-discovery-at-stripe
+# Misc:
 
 
 ### Google Interview University
@@ -644,3 +646,9 @@ Sandi Metz: https://twitter.com/sandimetz
 Richard Schneeman: https://twitter.com/schneems
 
 Avdi Grimm: https://twitter.com/avdi
+
+Nick Quaranto: https://twitter.com/qrush
+
+James Edward Gray II: https://twitter.com/JEG2
+
+DHH: https://twitter.com/dhh
