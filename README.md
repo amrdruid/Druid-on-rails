@@ -320,6 +320,10 @@ https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/
 http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/
 
 
+### Cleaning Up Rails 4 Production Logging
+
+http://rubyjunky.com/cleaning-up-rails-4-production-logging.html
+
 ---
 
 # Misc Articles 
