@@ -344,6 +344,11 @@ http://chris.beams.io/posts/git-commit/
 https://stripe.com/blog/service-discovery-at-stripe
 
 
+### Continuous Integration and Delivery for Agile Teams
+
+https://blog.codeship.com/continuous-integration-and-delivery-for-agile-teams/
+
+
 ---
 
 # Blogs
