@@ -328,6 +328,11 @@ http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/
 
 http://rubyjunky.com/cleaning-up-rails-4-production-logging.html
 
+
+### Understanding Locking in Rails ActiveRecord
+
+http://thelazylog.com/understanding-locking-in-rails-activerecord/
+
 ---
 
 # Misc Articles 
