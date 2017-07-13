@@ -7,7 +7,7 @@
 ### Here you will find links, code and hacks !
 
 * [Summary](#summary)
-  * [Interview Preparations for Rails jobs](#interview-preparations-for-rails-jobs)
+  * [Interview Preparations for Rails jobs](#interview-preparations-for-rubyrails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
   * [Channels and videos](#channels-and-videos)
   * [Books](#books)
