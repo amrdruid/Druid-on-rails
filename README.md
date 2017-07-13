@@ -333,6 +333,12 @@ http://rubyjunky.com/cleaning-up-rails-4-production-logging.html
 
 http://thelazylog.com/understanding-locking-in-rails-activerecord/
 
+
+### A Few RSpec Helpful Hints
+
+http://jakeyesbeck.com/2017/07/12/a-few-rspec-helpful-hints/
+
+
 ---
 
 # Misc Articles 
