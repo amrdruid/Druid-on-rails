@@ -552,6 +552,10 @@ https://github.com/cantino/huginn
 
 https://github.com/atinfo/awesome-test-automation
 
+### Ruby Style Guide
+
+https://github.com/bbatsov/ruby-style-guide
+
 ---
 
 # Libraries:
