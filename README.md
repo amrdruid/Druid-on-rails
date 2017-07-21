@@ -633,6 +633,16 @@ https://vim.sourceforge.io - Open-source improved vi.
 https://github.com/jwasham/google-interview-university
 
 
+### Project Guidelines
+
+https://github.com/wearehive/project-guidelines
+
+
+### Become A Full Stack Web Developer
+
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+
+
 ### Regexone
 
 https://regexone.com/
