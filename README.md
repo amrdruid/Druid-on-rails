@@ -339,6 +339,11 @@ http://thelazylog.com/understanding-locking-in-rails-activerecord/
 http://jakeyesbeck.com/2017/07/12/a-few-rspec-helpful-hints/
 
 
+### 10 ways to speed up RSpec using Capybara and FactoryGirl
+
+http://myprogrammingblog.com/2015/12/21/10-ways-how-to-speed-your-unit-tests-rails-rspec-capybara/
+
+
 ---
 
 # Misc Articles 
