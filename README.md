@@ -349,6 +349,11 @@ http://jakeyesbeck.com/2017/07/12/a-few-rspec-helpful-hints/
 http://myprogrammingblog.com/2015/12/21/10-ways-how-to-speed-your-unit-tests-rails-rspec-capybara/
 
 
+### The Safe Navigation Operator (&.) in Ruby
+
+http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/
+
+
 ---
 
 # Misc Articles 
