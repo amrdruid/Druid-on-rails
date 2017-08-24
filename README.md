@@ -354,6 +354,11 @@ http://myprogrammingblog.com/2015/12/21/10-ways-how-to-speed-your-unit-tests-rai
 http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/
 
 
+### Benchmarking Ruby
+
+http://mitrev.net/ruby/2015/08/28/benchmarking-ruby/
+
+
 ---
 
 # Misc Articles 
