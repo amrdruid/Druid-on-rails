@@ -359,6 +359,16 @@ http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/
 http://mitrev.net/ruby/2015/08/28/benchmarking-ruby/
 
 
+### Batching – A powerful way to solve N+1 queries every Rubyist should know
+
+https://engineering.universe.com/batching-a-powerful-way-to-solve-n-1-queries-every-rubyist-should-know-24e20c6e7b94
+
+
+### Introduction to Concurrency Models with Ruby. Part I
+
+https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970
+
+
 ---
 
 # Misc Articles 
