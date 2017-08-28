@@ -369,6 +369,11 @@ https://engineering.universe.com/batching-a-powerful-way-to-solve-n-1-queries-ev
 https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970
 
 
+### Using Capybara to Test JavaScript that Makes HTTP Requests
+
+https://robots.thoughtbot.com/using-capybara-to-test-javascript-that-makes-http
+
+
 ---
 
 # Misc Articles 
