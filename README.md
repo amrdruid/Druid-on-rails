@@ -431,6 +431,8 @@ http://ducktypelabs.com/
 
 https://thesocietea.org/blog/
 
+http://rubyblog.pro/
+
 
 ---
 
