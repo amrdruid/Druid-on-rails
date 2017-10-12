@@ -45,10 +45,6 @@ https://interviewing.io/
 
 https://github.com/yangshun/tech-interview-handbook
 
-### RUBY ON RAILS Interview Questions That Will Land You The Job!
-
-http://blog.mypath.io/ruby-on-rails-interview-questions-that-will-land-you-the-job/
-
 ### Ruby online test
 
 https://www.testdome.com/tests/ruby-online-test/52
