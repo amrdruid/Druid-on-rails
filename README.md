@@ -373,6 +373,10 @@ https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-pa
 https://robots.thoughtbot.com/using-capybara-to-test-javascript-that-makes-http
 
 
+###  Schneems: WTF is a Thread
+
+https://schneems.com/2017/10/23/wtf-is-a-thread/
+
 ---
 
 # Misc Articles 
