@@ -377,6 +377,17 @@ https://robots.thoughtbot.com/using-capybara-to-test-javascript-that-makes-http
 
 https://schneems.com/2017/10/23/wtf-is-a-thread/
 
+
+### Using Services to Keep Your Rails Controllers Clean and DRY
+
+https://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services
+
+
+### What are blocks, procs, and lambdas?
+
+http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/
+
+
 ---
 
 # Misc Articles 
