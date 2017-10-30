@@ -567,6 +567,12 @@ https://github.com/weshatheleopard/rubyXL
 
 https://github.com/mikemarsian/serially
 
+
+### Caching
+
+https://github.com/Shopify/identity_cache
+
+
 ### Output generation
 #### PDF generation
 Prawn lets you specify PDF output in great detail. You have full control over what
