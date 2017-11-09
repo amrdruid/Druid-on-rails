@@ -722,6 +722,11 @@ https://gist.github.com/kyletcarlson/6234923
 https://github.com/franzejr/best-ruby
 
 
+### BetterSpecs
+
+http://www.betterspecs.org/
+
+
 ---
 
 # People To Follow: 
