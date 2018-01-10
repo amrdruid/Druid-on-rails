@@ -413,6 +413,11 @@ https://stripe.com/blog/service-discovery-at-stripe
 https://blog.codeship.com/continuous-integration-and-delivery-for-agile-teams/
 
 
+### How do I run a Unix process in the background
+
+https://kb.iu.edu/d/afnz
+
+
 ---
 
 # Blogs
