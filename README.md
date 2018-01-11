@@ -694,6 +694,11 @@ https://vim.sourceforge.io - Open-source improved vi.
 # Misc:
 
 
+### Papers from the computer science community to read and discuss
+
+https://github.com/papers-we-love/papers-we-love
+
+
 ### Google Interview University
 
 https://github.com/jwasham/google-interview-university
