@@ -388,6 +388,10 @@ https://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services
 http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/
 
 
+### Rotating Rails Production Logs with LogRotate
+
+https://gorails.com/guides/rotating-rails-production-logs-with-logrotate
+
 ---
 
 # Misc Articles 
