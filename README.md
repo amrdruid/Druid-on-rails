@@ -392,6 +392,12 @@ http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-bloc
 
 https://gorails.com/guides/rotating-rails-production-logs-with-logrotate
 
+
+### Routing Partials: Organize your routes.rb
+
+https://www.driftingruby.com/episodes/routing-partials
+
+
 ---
 
 # Misc Articles 
