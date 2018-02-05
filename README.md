@@ -462,6 +462,8 @@ https://thesocietea.org/blog/
 
 http://rubyblog.pro/
 
+https://slack.engineering/
+
 
 ---
 
