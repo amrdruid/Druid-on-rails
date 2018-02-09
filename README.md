@@ -464,6 +464,8 @@ http://rubyblog.pro/
 
 https://slack.engineering/
 
+https://medium.com/netflix-techblog
+
 
 ---
 
