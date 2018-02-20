@@ -398,6 +398,11 @@ https://gorails.com/guides/rotating-rails-production-logs-with-logrotate
 https://www.driftingruby.com/episodes/routing-partials
 
 
+### Processing large CSV files with Ruby
+
+https://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby
+
+
 ---
 
 # Misc Articles 
