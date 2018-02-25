@@ -403,6 +403,11 @@ https://www.driftingruby.com/episodes/routing-partials
 https://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby
 
 
+### Deleting a Massive Amount of Data in Rails
+
+https://www.delight.consulting/blog/deleting-massive-amounts-of-data-rails/
+
+
 ---
 
 # Misc Articles 
