@@ -408,6 +408,11 @@ https://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby
 https://www.delight.consulting/blog/deleting-massive-amounts-of-data-rails/
 
 
+### Do, or do not. There is no #try.
+
+http://www.virtuouscode.com/2011/06/28/do-or-do-not-there-is-no-try/
+
+
 ---
 
 # Misc Articles 
