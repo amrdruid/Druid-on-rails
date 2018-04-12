@@ -770,9 +770,13 @@ http://www.betterspecs.org/
 
 # People To Follow: 
 
+Stephanie Hurlburt: https://twitter.com/sehurlburt
+
 Jeff Atwood: https://twitter.com/codinghorror
 
 Scott Hanselman: https://twitter.com/shanselman
+
+Gary Bernhardt: https://twitter.com/garybernhardt
 
 Sarah Mei: https://twitter.com/sarahmei
 
@@ -789,5 +793,11 @@ Avdi Grimm: https://twitter.com/avdi
 Nick Quaranto: https://twitter.com/qrush
 
 James Edward Gray II: https://twitter.com/JEG2
+
+Eileen M. Uchitelle: https://twitter.com/eileencodes
+
+Justin Searls: https://twitter.com/searls
+
+Sean Griffin:  https://twitter.com/sgrif
 
 DHH: https://twitter.com/dhh
