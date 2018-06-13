@@ -21,6 +21,7 @@
   * [Tools](#tools)
   * [Misc](#misc)
   * [Gists](#gists)
+  * [Podcasts](#podcasts)
   * [People To Follow](#people-to-follow)
 
 
@@ -765,6 +766,12 @@ https://github.com/franzejr/best-ruby
 
 http://www.betterspecs.org/
 
+
+---
+
+# Podcasts: 
+
+1- Software engineering daily: https://softwareengineeringdaily.com/category/podcast/
 
 ---
 
