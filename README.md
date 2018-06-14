@@ -773,6 +773,8 @@ http://www.betterspecs.org/
 
 1- Software engineering daily: https://softwareengineeringdaily.com/category/podcast/
 
+2- Iteration podcast: http://www.iterationpodcast.com/
+
 ---
 
 # People To Follow: 
