@@ -482,6 +482,7 @@ https://slack.engineering/
 
 https://medium.com/netflix-techblog
 
+https://makandracards.com/makandra
 
 ---
 
