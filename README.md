@@ -34,9 +34,9 @@
 
 https://pramp.com/
 
-### What happens when 
+### InterviewBit 
 
-https://github.com/alex/what-happens-when
+https://www.interviewbit.com
 
 ### Practice on Interviewing.io 
 
@@ -45,10 +45,6 @@ https://interviewing.io/
 ### Tech Interview Handbook 
 
 https://github.com/yangshun/tech-interview-handbook
-
-### Ruby online test
-
-https://www.testdome.com/tests/ruby-online-test/52
 
 ### RubyConf 2015 - The Art of Ruby Technical Interviews by Chris Mar
 
