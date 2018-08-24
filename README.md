@@ -440,6 +440,11 @@ https://blog.codeship.com/continuous-integration-and-delivery-for-agile-teams/
 https://kb.iu.edu/d/afnz
 
 
+### Decorator pattern and usage of SimpleDelegator
+
+http://rubyblog.pro/2016/10/decorator-pattern-and-usageof-simpledelegator
+
+
 ---
 
 # Blogs
