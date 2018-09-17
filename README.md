@@ -760,6 +760,11 @@ https://regexone.com/
 
 https://github.com/danistefanovic/build-your-own-x
 
+
+### Add Dev community 
+
+https://dev.to/
+
 ---
 
 # Gists:
