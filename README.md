@@ -788,9 +788,11 @@ http://www.betterspecs.org/
 
 # Podcasts: 
 
-1- Software engineering daily: https://softwareengineeringdaily.com/category/podcast/
+- Software engineering daily: https://softwareengineeringdaily.com/category/podcast/
 
-2- Iteration podcast: http://www.iterationpodcast.com/
+- Iteration podcast: http://www.iterationpodcast.com/
+
+- The Ruby Testing Podcast: http://www.rubytestingpodcast.com/
 
 ---
 
