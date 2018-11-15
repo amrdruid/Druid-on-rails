@@ -72,6 +72,10 @@ https://www.reddit.com/r/rails/comments/364s5w/how_i_learned_rails_from_absolute
 
 https://www.reddit.com/r/ruby/comments/2zlcyc/tips_on_becoming_a_ruby_expert/
 
+### Thoughtbot free resources:
+
+https://thoughtbot.com/upcase/practice
+
 ### Reddit
 
 https://www.reddit.com/r/ruby/
