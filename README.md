@@ -613,30 +613,21 @@ https://github.com/mikemarsian/serially
 
 https://github.com/Shopify/identity_cache
 
+### Bootstrap
 
-### Output generation
+https://github.com/thoughtbot/administrate (Like RailsAdmin and ActiveAdmin but must more customizable)
+
+https://github.com/sferik/rails_admin
+
+https://github.com/activeadmin/activeadmin
+
+
 #### PDF generation
-Prawn lets you specify PDF output in great detail. You have full control over what
-is in the PDF output which you can specify with a DSL. Very very flexible way of
-generating PDF.
 
 https://github.com/cortiz/prawn-rails
 
-and for information on how to specifiy the PDF content see:
-
-https://github.com/prawnpdf/prawn
-
-#### HTML to PDF conversion
-wicked_pdf is a converter from HTML to PDF. It does have the drawbacks of HTML for example page numbering to mention something.
 
 https://github.com/mileszs/wicked_pdf
-
-wicked_pdf is a wrapper for wkhtmltopdf, you'll need to install that, too.
-
-### Preformance:
-
-https://github.com/gregnavis/active_record_doctor
-
 
 ---
 
