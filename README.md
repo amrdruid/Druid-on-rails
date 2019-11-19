@@ -789,6 +789,8 @@ http://www.betterspecs.org/
 
 - The Ruby Testing Podcast: http://www.rubytestingpodcast.com/
 
+- The Accidental Engineer: https://theaccidentalengineer.com/
+
 ---
 
 # People To Follow: 
