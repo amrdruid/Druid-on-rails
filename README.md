@@ -46,6 +46,10 @@ https://interviewing.io/
 
 https://github.com/yangshun/tech-interview-handbook
 
+### Awesome Interview Questions 
+
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
 ### RubyConf 2015 - The Art of Ruby Technical Interviews by Chris Mar
 
 https://www.youtube.com/watch?v=nZNfSQKC-Yk
