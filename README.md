@@ -418,6 +418,10 @@ https://www.delight.consulting/blog/deleting-massive-amounts-of-data-rails/
 http://www.virtuouscode.com/2011/06/28/do-or-do-not-there-is-no-try/
 
 
+### Deep Dive into Database Timeouts in Rails
+
+https://engineering.grab.com/deep-dive-into-database-timeouts-in-rails
+
 ---
 
 # Misc Articles 
