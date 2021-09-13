@@ -110,6 +110,10 @@ https://www.youtube.com/channel/UCxlRo6PM3QmRWJa-HTA0tMg
 
 https://www.youtube.com/user/Confreaks
 
+https://www.youtube.com/channel/UCUeZ3YgblYkMQt0wJP3OR-Q/featured
+
+https://www.youtube.com/c/SupeRails/featured
+
 ---
 
 # Books
@@ -134,6 +138,17 @@ https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-eboo
 
 https://www.amazon.com/Effective-Ruby-Specific-Software-Development-ebook/dp/B00NEOERH6/
 
+### Design Patterns in Ruby
+
+https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452
+
+### Agile Web Development with Rails 6 1st Edition
+
+https://www.amazon.com/Agile-Web-Development-Rails-6/dp/1680506706
+
+### The Rails 5 Way
+
+https://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0134657675
 
 ---
 
@@ -165,7 +180,7 @@ http://technopadia.com/ruby-gems/
 http://ducktypelabs.com/using-scope-with-associations/
 
 
-### Deployement testing cycle :
+### Deployment testing cycle :
 
 https://workshop.masterofcode.com/three-phases-deployment-testing-cycle/
 
@@ -196,8 +211,7 @@ https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
 
 ### 50 Most Common Ruby on Rails Mistakes Beginner Developers Make
 
-http://jetruby.com/expertise/common-ruby-rails-mistakes-beginners-make-model-database/
-
+https://expertise.jetruby.com/50-most-common-rails-mistakes-model-database-dfa338478299
 
 ### A webserver vs. An App server on rails
 
@@ -580,6 +594,8 @@ https://github.com/colszowka/simplecov
 
 https://github.com/teamcapybara/capybara
 
+https://github.com/grosser/parallel_tests
+
 ### Debugging:
 
 https://github.com/deivid-rodriguez/byebug
@@ -630,12 +646,23 @@ https://github.com/sferik/rails_admin
 https://github.com/activeadmin/activeadmin
 
 
-#### PDF generation
+### PDF generation
 
 https://github.com/cortiz/prawn-rails
 
-
 https://github.com/mileszs/wicked_pdf
+
+
+### Serialization:
+
+https://github.com/rails-api/active_model_serializers
+
+https://github.com/procore/blueprinter
+
+
+### Roles management:
+
+https://github.com/RolifyCommunity/rolify
 
 ---
 
