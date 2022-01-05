@@ -826,6 +826,8 @@ http://www.betterspecs.org/
 
 - The Accidental Engineer: https://theaccidentalengineer.com/
 
+- Thoughtbot: https://thoughtbot.com/upcase/clean-code
+
 ---
 
 # People To Follow: 
