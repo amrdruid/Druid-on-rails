@@ -30,9 +30,11 @@
 
 # Interview Preparations for Ruby/Rails jobs
 
-### Do Mock Interviews on Pramp - using ruby
+### Do Mock Interviews
 
 https://pramp.com/
+
+https://www.techmockinterview.com/
 
 ### InterviewBit 
 
