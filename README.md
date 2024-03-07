@@ -1,13 +1,9 @@
 # Druid-on-rails
 
-![alt tag](http://media.indiedb.com/images/articles/1/172/171072/auto/druidarcher_o.gif)
-
-
-
-### Here you will find links, code and hacks !
+A Complete Repo for Rails and Web Enthusiasts. Resources here are mapped in a way that you'll have all you need to study, prepare for interviews, or just learn something new
 
 * [Summary](#summary)
-  * [Interview Preparations for Rails jobs](#interview-preparations-for-rubyrails-jobs)
+  * [Interview Preparations](#interview-preparations-for-rubyrails-jobs)
   * [How to begin ROR](#how-to-begin-ror)
   * [Channels and videos](#channels-and-videos)
   * [Books](#books)
@@ -28,33 +24,25 @@
 
 ---
 
-# Interview Preparations for Ruby/Rails jobs
+# Interview Prepartions & Job Applying
 
-### Do Mock Interviews
+### Mock Interviews
 
-https://pramp.com/
+[Pramp](https://pramp.com/)
 
-https://www.techmockinterview.com/
+[Tech Mock Interviews](https://www.techmockinterview.com/)
 
-### InterviewBit 
+[Interview Bit](https://www.interviewbit.com)
 
-https://www.interviewbit.com
+[Interviewing.io](https://interviewing.io/)
 
-### Practice on Interviewing.io 
+### Handbook and Resources
 
-https://interviewing.io/
+[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
-### Tech Interview Handbook 
+### Rails & Tech Jobs:
 
-https://github.com/yangshun/tech-interview-handbook
-
-### Awesome Interview Questions 
-
-https://github.com/MaximAbramchuck/awesome-interview-questions
-
-### RubyConf 2015 - The Art of Ruby Technical Interviews by Chris Mar
-
-https://www.youtube.com/watch?v=nZNfSQKC-Yk
+[Rails Job Board](https://jobs.rubyonrails.org/)
 
 ---
 
