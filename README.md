@@ -1,5 +1,8 @@
 # Druid-on-rails
 
+![ezgif-4-60ed1d70fc](https://github.com/amrdruid/Druid-on-rails/assets/6736430/08ffa800-0801-4991-a8b5-fd77cb1e5de7)
+
+
 A Complete Repo for Rails and Web Enthusiasts. Resources here are mapped in a way that you'll have all you need to study, prepare for interviews, or just learn something new
 
 * [Summary](#summary)
