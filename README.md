@@ -116,7 +116,8 @@ A Guide for Rails and Web Enthusiasts. Resources here are mapped in a way that y
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/)
 - [Thoughtbot's Clean Code](https://thoughtbot.com/upcase/clean-code)
 - [Stackoverflow Podcast](https://stackoverflow.blog/podcast)
-
+- [Syntax](https://www.youtube.com/@syntaxfm)
+  
 ## Misc
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
